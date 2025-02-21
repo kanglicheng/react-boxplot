@@ -2,7 +2,7 @@
   "name": "react-boxplot",
   "version": "4.0.0",
   "description": "Simple SVG box plots in React",
-  "author": "Paul Melnikow <github@paulmelnikow.com>",
+  "author": "Stephen Cheng <kangli.cheng@gmail.com>",
   "license": "BSD-2-Clause",
   "keywords": [
     "react",
@@ -10,7 +10,10 @@
     "boxplot",
     "svg"
   ],
-  "repository": "paulmelnikow/react-boxplot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanglicheng/react-boxplot"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

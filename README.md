@@ -90,6 +90,9 @@ npm ci
 npm start
 ```
 
+## Note
+This is a fork of https://github.com/paulmelnikow/react-boxplot. All credit goes to the original author(s).
+
 ## Contribute
 
 - [Issue tracker][issues]
